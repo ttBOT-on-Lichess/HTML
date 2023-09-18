@@ -1,0 +1,39 @@
+h2 {
+    text-align: center
+}
+
+h1 {
+    text-align: center
+}
+
+a {
+    color: #0023FF
+}
+
+body {
+      background-color: #FA9D9D
+}
+
+h1 {
+    color: white
+}
+
+h2 {
+    color: #7A0808 
+}
+
+table {
+       border: solid 1px black;
+}
+
+th {
+	border : solid 1px black;
+}
+
+table {
+       margin: auto
+}
+
+th {
+    text-align: center
+}
